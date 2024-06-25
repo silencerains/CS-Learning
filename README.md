@@ -8,7 +8,7 @@
 ## Target
 
 - CPP Basic 学习，掌握基本的数据结构，完成一个贪吃蛇小游戏
-- Chisel完成单周期流水线
+- Chisel完成单周期NPC
 - 学习编译器[Stanford CS 143]<https://www.youtube.com/watch?v=SNWHmnWzJAI&list=PLoCMsyE1cvdUZRe1udlyjpzTww1U5olL2>
 
 ## Log
