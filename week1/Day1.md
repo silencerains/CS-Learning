@@ -2,13 +2,15 @@
 
 ## Target
 
-- 用CPP初步构建贪吃蛇小游戏的基本Class，完成线性表的练习
+- CPP线性表练习
 - chisel-npc通过cpu-test(add add-longlong bit)
 - Compiler的前三课
 
 ## Logs
 
 - 下午三点搭建好个人主页，希望在晚上十二点完成今天目标
+- 完成线性表类后，感觉学习计划有所偏差，应该先学更基础的概念
+- chisel-npc的部分未完成，明日补上
 
 ## 课程记录
 
@@ -16,7 +18,7 @@
 
 Compiler: 程序通过编译器输出可执行文件(off-line)，数据输入进可执行文件输出
 
-Interpreter: 程序和数据通过解释器进行输出，在执行程序前不会对程序进行任何处理(On-line),Python是通过解释器运行的
+Interpreter: 程序和数据通过解释器进行输出，在执行程序前不会对程序进行任何处理(On-line)，Python是通过解释器运行的
 
 Comparison of Two Method:
 
@@ -59,3 +61,19 @@ Compiler Structure:
     Lex(small)->Parsing(samll)->Semantic(middle)->Optimization(huge)->Code Gen(small)
 
 ### Compiler3
+
+> 阐述了为什么会有如此多的编程语（冲突的需求导致了需要不同的编程语言）
+
+- Scientific Computing(Fortran)
+    - good FP
+    - good Arrays
+    - good parallelism
+- Business application(SQL)
+    - persistance
+    - report generation
+    - data analysis
+- System promgramming(C/CPP)
+    - control of resources
+    - real time constraints
+
+> 好的编程语言应该具备让人快速上手的能力
