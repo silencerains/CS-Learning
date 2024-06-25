@@ -55,7 +55,7 @@ Compiler Structure:
 - Code Generation:生成汇编代码，professor说这部分最简单
     - 编译器在将高级语言转换为汇编代码时，可以基本上按照源代码的结构和语义逐行地生成对应的汇编指令，而不必考虑复杂的优化和目标平台细节(from GPT)
 
-> 现代编译器在不同阶段的代码量
+> 现代编译器在不同阶段的代码量  
     Lex(small)->Parsing(samll)->Semantic(middle)->Optimization(huge)->Code Gen(small)
-    
+
 ### Compiler3
