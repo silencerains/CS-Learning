@@ -10,7 +10,7 @@
 
 ## Logs
 - 明天就是离开学校的日子了，希望未来能够越来越好
-- [课程链接CS143]<https://web.stanford.edu/class/cs143/>
+- [课程链接CS143](https://web.stanford.edu/class/cs143/)
 - 完成了NPC的chisel-difftest
     - 需要的处理的问题是Vec被Chisel编译后是打散的，用firtooloption+="-preserve-aggregate=1d-vec"解决，需要注意的是其与“disallowPackedArrays”相互冲突
 - 一个跨平台绘制图形的库（SFML），同时可以与键盘交互，根据Example初步构建了Snake Class
